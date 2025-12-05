@@ -17,8 +17,8 @@ Telegram бот для поиска цен предметов CS2 на торг�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/ваш-репозиторий.git
-cd ваш-репозиторий
+git clone https://github.com/kored0/Telegram-Bot---CS2-Steam-Market-Price-Checker
+cd Telegram-Bot---CS2-Steam-Market-Price-Checker
 ```
 
 2. Создайте виртуальное окружение:
